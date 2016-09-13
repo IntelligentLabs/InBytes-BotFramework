@@ -2,6 +2,7 @@
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Builder.Luis;
 using Microsoft.Bot.Builder.Luis.Models;
+using Microsoft.Bot.Connector;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,32 @@ namespace InBytesBot
     [Serializable]
     public class SimpleLUISDialog : LuisDialog<object>
     {
+        [LuisIntent("Help")]
+        public async Task Help(IDialogContext context, LuisResult result)
+        {
+            var reply = context.MakeMessage();
+            reply.Attachments = new List<Attachment>();
+            List<CardImage> images = new List<CardImage>();
+            CardImage ci = new CardImage("http://intelligentlabs.co.uk/images/IntelligentLabs-White-Small.png");
+            images.Add(ci);
+            CardAction ca = new CardAction()
+            {
+                Title = "Visit Support",
+                Type = "openUrl",
+                Value = "http://www.intelligentlabs.co.uk"
+            };
+            ThumbnailCard tc = new ThumbnailCard()
+            {
+                Title = "Need help?",
+                Subtitle = "Go to our main site support.",
+                Images = images,
+                Tap = ca
+            };
+            reply.Attachments.Add(tc.ToAttachment());
+            await context.PostAsync(reply);
+            context.Wait(MessageReceived);
+        }
+
         public static Championships champs = new Championships();
         [LuisIntent("TeamCount")]
         public async Task GetTeamCount(IDialogContext context, LuisResult result)

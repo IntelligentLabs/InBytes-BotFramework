@@ -1,0 +1,41 @@
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Bot Application1.dll.config
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Bot Application1.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Bot Application1.pdb
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Autofac.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Chronic.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Newtonsoft.Json.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\System.Net.Http.Formatting.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\System.Web.Http.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\System.Web.Http.WebHost.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Autofac.xml
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\Newtonsoft.Json.xml
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\System.Net.Http.Formatting.xml
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\System.Web.Http.xml
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\System.Web.Http.WebHost.xml
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\obj\Debug\InBytesBot.csprojResolveAssemblyReference.cache
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\obj\Debug\Bot Application1.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\obj\Debug\Bot Application1.pdb
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\FootballData.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\InBytesBot\bin\FootballData.pdb
